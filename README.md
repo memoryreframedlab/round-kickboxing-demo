@@ -1,7 +1,7 @@
 # ROUND — fictional kickboxing gym demo
 
-Fictional three-page design demonstration. Photos are AI-generated and do not depict the actual client gym or its trainers. Names, schedules, prices, credentials, member testimonials and access details not supplied by the client are not invented.
+Three-page website for a fictional gym. Names, prices, training descriptions and weekly schedules are sample settings, not information about a real business. Photos are AI-generated. No fabricated credentials, competitive records, customer testimonials or real business addresses are presented.
 
-The local form is a non-sending demonstration. No reservation, message, email or automatic reply is created. WordPress/STUDIO integration and an editable schedule administration interface are not implemented.
+The form is a non-sending interaction demo. No booking or message is created; no automatic email is sent. WordPress/STUDIO integration, a schedule administration interface and YouTube integration are not implemented.
 
-Static site: index.html, classes.html, trainers.html. No external scripts, analytics or third-party fonts.
+Static pages: index.html, classes.html, trainers.html. No third-party scripts, analytics or external fonts.
